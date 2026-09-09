@@ -1,0 +1,13 @@
+{
+  "name": "genpark-smith-waterman-local-sequence-aligner-skill",
+  "version": "1.0.0",
+  "description": "Smith-Waterman dynamic programming algorithm finding exact optimal local alignment motifs, homologous domains, and substrings across DNA and protein sequences.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "smith-waterman",
+    "local-alignment",
+    "homology-search",
+    "bioinformatics"
+  ]
+}
